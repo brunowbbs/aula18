@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mouse Sem Fio 2.4 MO251",
+    "price": "R$ 24,99",
+    "brand": "Multilaser",
+    "image": "https://m.media-amazon.com/images/I/615iBXULp8L._AC_SL1000_.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur odio leo, dictum nec sem nec, laoreet pretium sem. Maecenas ut tortor vel mi faucibus sagittis. Phasellus in molestie turpis, hendrerit ultrices magna. Etiam at interdum risus, quis porta enim. Sed vehicula nibh quis consequat posuere. Quisque viverra efficitur dapibus. Sed imperdiet blandit tellus, non malesuada ipsum egestas at. Integer condimentum risus vel nulla elementum, a tincidunt nulla dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur consequat maximus tempor. Suspendisse nec convallis purus. Suspendisse tristique ligula a ipsum pulvinar euismod. Maecenas aliquam nisi sollicitudin mi cursus, vitae volutpat metus aliquam. Praesent velit mi, efficitur sed luctus ut, facilisis at velit. Fusce malesuada porta ullamcorper. Mauris id imperdiet velit. Ut non justo at justo facilisis dapibus sed a nunc. Nullam nisl lorem, rutrum quis efficitur efficitur, rhoncus nec sem."
+  },
+  {
+    "id": 2,
+    "name": "Multifuncional Epson EcoTank L3250",
+    "price": "R$ 348,99",
+    "brand": "Epson",
+    "image": "https://m.media-amazon.com/images/I/818P+qYvSHS._AC_SL1500_.jpg",
+    "description": "Multifuncional EcoTank L3250. Baixo custo de impressão: imprime até 4.500 páginas em preto ou 7.500 páginas coloridas com um kit de garrafas de tinta de reposição originais Epson. Confiabilidade e performance incomparáveis: a tecnologia MicroPiezo Heat-Free da Epson garante longa vida ao equipamento, além de impressões sem aquecimento em alta performance e maior qualidade. Maior mobilidade: configure, opere e resolva problemas remotamente através do novo aplicativo intuitivo Epson Smart Panel. Conectividade avançada: com cabo USB, Wi-Fi, Wi-Fi Direct e rede Ethernet para grupos de trabalho."
+  },
+  {
+    "id": 3,
+    "name": "Headphone Fone de Ouvido Havit HV-H2002d",
+    "price": "R$ 114,99",
+    "brand": "Havit",
+    "image": "https://m.media-amazon.com/images/I/41wTbMic2eL._AC_.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur odio leo, dictum nec sem nec, laoreet pretium sem. Maecenas ut tortor vel mi faucibus sagittis. Phasellus in molestie turpis, hendrerit ultrices magna. Etiam at interdum risus, quis porta enim. Sed vehicula nibh quis consequat posuere. Quisque viverra efficitur dapibus. Sed imperdiet blandit tellus, non malesuada ipsum egestas at. Integer condimentum risus vel nulla elementum, a tincidunt nulla dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur consequat maximus tempor. Suspendisse nec convallis purus. Suspendisse tristique ligula a ipsum pulvinar euismod. Maecenas aliquam nisi sollicitudin mi cursus, vitae volutpat metus aliquam. Praesent velit mi, efficitur sed luctus ut, facilisis at velit. Fusce malesuada porta ullamcorper. Mauris id imperdiet velit. Ut non justo at justo facilisis dapibus sed a nunc. Nullam nisl lorem, rutrum quis efficitur efficitur, rhoncus nec sem."
+  }
+]
